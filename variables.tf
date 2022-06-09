@@ -24,7 +24,7 @@ variable "associate_public_ip_address" {
   default     = true
 }
 variable "endpoint-mail" {
-  default     = "fayiskv14@gmail.com"
+  default     = "mailid@gmail.com"
   description = "valid email"
   type        = string
 }
